@@ -31,7 +31,3 @@ window.addEventListener('load', function () {
         }
     });
 });
-
-$(document).ready(function () {  
-    $('#header').load('include/menu.html');
-});

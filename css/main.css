@@ -332,6 +332,7 @@ footer a {
 
   .menu-branding {
     height: 25vh !important;
+    padding: 0.5rem 0;
     background: #444 !important;
     transform: translate3d(100%, 0, 0) !important;
   }
